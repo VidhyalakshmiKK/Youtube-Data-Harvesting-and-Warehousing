@@ -31,7 +31,7 @@ To use this project, follow these steps:
   
   2.Run the Streamlit app: streamlit run youtube.py
   
-  3.Open the app in your web browser. You can access it by opening a new tab and entering the following URL: http://192.168.0.103:8502
+  3.Open the app in your web browser. You can access it by opening a new tab and entering the following URL: http://192.168.0.103:8501
   
 ## Features
   • Retrieve data from the YouTube API, including channel information, playlists, videos, and comment details.
